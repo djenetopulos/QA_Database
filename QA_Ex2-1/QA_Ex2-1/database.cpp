@@ -2,7 +2,7 @@
 #include "personal.h"
 #include "student.h"
 #include "database.h"
-// test comment delete later
+// test comment deleted!!?!
 template<class T>
 Database<T>::Database() {}
 
